@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GettingReadyForTheWorshop</string>
+    <string name="hello_world">Hello !</string>
+    <string name="displayed_message">If you can see that, you are ready for the workshop...</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
